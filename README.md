@@ -1,6 +1,5 @@
-![GitHub top language](https://img.shields.io/github/languages/top/naabdi/shuniprg3982?color=a&logo=C&logoColor=blue&style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/naabdi/shuniprg3982?style=plastic)
-![GitHub](https://img.shields.io/github/license/naabdi/shuniprg3982?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/naabdi/ShUni?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/naabdi/ShUni?style=plastic)
 
 # Github Repository for Courses
 ## University of Shahreza
